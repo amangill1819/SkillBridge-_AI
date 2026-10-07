@@ -4,7 +4,7 @@
 
 A unified portal that turns skill evidence into learning paths, opportunities and placement insight, connecting students, industry and institutions.
 
-**Team Apex** | Problem Statement **SIH26044** | Theme: Smart Automation | Category: Software
+**Team Apex** | Theme: Smart Automation | Category: Software
 
 > Problem: *Portal for Academia–Industry Collaboration for Skill Mapping, Internships and Placement*
 
